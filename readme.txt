@@ -9,21 +9,25 @@ License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
+**Motive**
 This plugin is used to Lock The Data.Whatever Data you think is important and should be visibile once it is liked on facebook, shared on twitter or liked on google plus.
 Once any of these like or share is done, the data you locked becomes visible.
 
-Free Version
+**Free Version** 
 Lock Data with Facebook Like, Google Plus Like and Twitter Tweet.
 
 
-Premium Plugin Version
+**Premium Version** 
 With Free Version features you will also get: 
+Ordererd List:
 1) Facebook Sharing to lock the data.
 2) Change the Title of Data Locker Box.
 3) STATS of the Page URLs like how many likes of FB, Google and Twitters are done.
 4) Not only this you will also get a STAND ALONE Plugin of Data Locker to lock the pages of Core PHP Pages.
 
-Support: After Success of my first plugin I decided to develop one more plugin and I want to develop so many more in future so I am ready to get reviews and provide support for 24 hours.
+**Support:** 
+
+After Success of my first plugin I decided to develop one more plugin and I want to develop so many more in future so I am ready to get reviews and provide support for 24 hours.
 
 Get Pro License on www.spideb.in/data-locker/
 == Installation ==
@@ -46,13 +50,17 @@ To upload the plugin through WordPress, instead of FTP:
 
 == Frequently Asked Questions ==
 
-Where do i get a License Key for pro version?
+**Where do i get a License Key for pro version?**
+
 Need to generate from WOAR sales page: https://www.spideb.in/data-locker/
 
-What I do after getting License Key
+**What I do after getting License Key**
+
 When you get License Key you will also get Pro Version Plugin with Stand Alone Plugin.You need to Remove your existing Free Version Plugin and need too upload the new one and then enter Your E-mail id and license key to get FB Share and Stats and Settings.
 
-How to use Standalone Plugin
+**How to use Standalone Plugin**
+
+Ordererd List:
 1) You need to unzip the files and upload to any directory.
 2) When you open the url in browser you will get an installation page where you need to enter your database settings.
 3) After that you can login to admin panel with the credentials you created in step2.
