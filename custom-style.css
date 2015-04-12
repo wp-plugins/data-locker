@@ -1,0 +1,21 @@
+
+.datalocker_box {
+	background-color: yellow;
+	border: 1px solid #dbdb00;
+	padding: 10px 20px;
+	color: #000;
+	text-align: left;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border-radius: 5px;	
+	-moz-border-radius: 5px;
+	font-weight: bold;
+}
+.datalocker_box  div {
+	margin-top: 5px;
+}
+.entry-content iframe {
+	margin-bottom:0px;
+
+}
+hr { display:block; clear:both; font-size:0px; line-height:0px; height:1px; background:#f2f200; margin:5px 0px; border:none; }
