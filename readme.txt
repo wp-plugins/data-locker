@@ -19,6 +19,7 @@ Lock Data with Facebook Like, Google Plus Like and Twitter Tweet.
 
 **Premium Version** 
 With Free Version features you will also get: 
+
 1. Facebook Sharing to lock the data.
 2. Change the Title of Data Locker Box.
 3. STATS of the Page URLs like how many likes of FB, Google and Twitters are done.
