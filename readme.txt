@@ -19,11 +19,10 @@ Lock Data with Facebook Like, Google Plus Like and Twitter Tweet.
 
 **Premium Version** 
 With Free Version features you will also get: 
-Ordererd List:
-1) Facebook Sharing to lock the data.
-2) Change the Title of Data Locker Box.
-3) STATS of the Page URLs like how many likes of FB, Google and Twitters are done.
-4) Not only this you will also get a STAND ALONE Plugin of Data Locker to lock the pages of Core PHP Pages.
+1. Facebook Sharing to lock the data.
+2. Change the Title of Data Locker Box.
+3. STATS of the Page URLs like how many likes of FB, Google and Twitters are done.
+4. Not only this you will also get a STAND ALONE Plugin of Data Locker to lock the pages of Core PHP Pages.
 
 **Support:** 
 
@@ -60,13 +59,12 @@ When you get License Key you will also get Pro Version Plugin with Stand Alone P
 
 **How to use Standalone Plugin**
 
-Ordererd List:
-1) You need to unzip the files and upload to any directory.
-2) When you open the url in browser you will get an installation page where you need to enter your database settings.
-3) After that you can login to admin panel with the credentials you created in step2.
-4) From the admin panel you can Add Page URL where you want the Data Locker Popup to come.
-5) After adding the page url you can get the page code by clicking on Code button.
-6) You need to copy the Page Code in the <head></head> section (from Step5) on the page of which URL you entered in Step4.
+1. You need to unzip the files and upload to any directory.
+2. When you open the url in browser you will get an installation page where you need to enter your database settings.
+3. After that you can login to admin panel with the credentials you created in step2.
+4. From the admin panel you can Add Page URL where you want the Data Locker Popup to come.
+5. After adding the page url you can get the page code by clicking on Code button.
+6. You need to copy the Page Code in the <head></head> section (from Step5) on the page of which URL you entered in Step4.
 
 
 == Screenshots ==
