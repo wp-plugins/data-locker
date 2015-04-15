@@ -29,7 +29,7 @@ With Free Version features you will also get:
 
 After Success of my first plugin I decided to develop one more plugin and I want to develop so many more in future so I am ready to get reviews and provide support for 24 hours.
 
-Get Pro License on www.spideb.in/data-locker/
+Get Pro License at www.spideb.in/data-locker/
 == Installation ==
 
 For a manual installation via FTP:
