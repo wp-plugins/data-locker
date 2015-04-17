@@ -1,5 +1,5 @@
 === Data Locker ===
-Contributors: bhuvnesh
+Contributors: vatsinformatics
 Donate link: http://spideb.in/data-locker/
 Tags: Data, Data Locker, Lock, marketing, subscribe, subscription,business, Social Sites, Facebook, Google, Google Plus, Twitter, Cookie
 Requires at least: 3.9.0
